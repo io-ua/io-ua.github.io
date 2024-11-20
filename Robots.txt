@@ -1,3 +1,0 @@
-User-agent: *
-Disallow: 
-Sitemap: https://asahan619988.github.io/gli/sitemap.xml
